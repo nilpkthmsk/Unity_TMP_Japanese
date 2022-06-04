@@ -14,7 +14,7 @@ Generating Manual: https://taidanahibi.com/unity/text-mesh-pro/
 
 使用方法：zip ファイルを解凍して Unity プロジェクトに移動して、TMP の Font Asset から参照して使えます。  
 文字数：7130文字、https://gist.github.com/kgsi/ed2f1c5696a2211c1fd1e1e198c96ee4 からの文字です。  
-フォント：グーグルフォントの Noto Sans JP です。
+フォント：グーグルフォントの Noto Sans JP です。  
 フォントのリンク：https://fonts.google.com/noto/specimen/Noto+Sans+JP  
 生成手順：https://taidanahibi.com/unity/text-mesh-pro/
 
